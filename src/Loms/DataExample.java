@@ -11,7 +11,7 @@ public class DataExample {
 		s.setSuperPower("Detective Capabilities");
 		s.setAge(30);
 	
-		System.out.println(s);
+		System.out.println(s);  //toString Example
 		
 		System.out.println("Name: "+s.getName());
 		System.out.println("Superpower: "+s.getSuperPower());
