@@ -4,7 +4,7 @@ import lombok.Getter;
 import lombok.NonNull;
 import lombok.Setter;
 
-public class nonNull_Example {
+public class NonNull_Example {
 
 	public static void main(String[] args) {
 
