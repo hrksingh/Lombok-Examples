@@ -64,9 +64,9 @@ class Dev {
 
 class Citizen {
 
-    private String country;
+    private String country = "India";
     public Citizen() {
-		System.out.println("printing citizen");
+		System.out.println("printing citizen's Country: "+country);
 	}
 
 }
